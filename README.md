@@ -10,6 +10,11 @@ python3 -m http.server 8000 --directory dist
 
 Open http://localhost:8000. Internal links use absolute paths from the web root.
 
+The GitHub Pages site is published at https://kourgeorge.github.io/alfred_website/.
+Pushes to `main` deploy automatically through `.github/workflows/pages.yml`.
+The workflow runs `scripts/prepare-pages.py` to copy `dist/` into `_site/` and
+prefix internal URLs with the Pages base path, preserving the recovered files.
+
 `recovery-manifest.json` lists downloaded URLs, file paths, and SHA-256 checksums. `.openai/hosting.json` preserves the original Sites project identity and static directory.
 
 This is a recovery of the deployed files, not an export of the original source repository or Git history. Unpublished files, build scripts, and the original `course-lectures.json` were not accessible. Google Forms, Teachable courses, YouTube videos, and other external services remain linked and are not copied into this repository. Pages may contain hosting-injected Cloudflare code.
