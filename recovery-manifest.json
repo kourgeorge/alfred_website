@@ -1,0 +1,371 @@
+{
+  "origin": "https://alfred.kour.me",
+  "files": [
+    {
+      "url": "https://alfred.kour.me/about_us/",
+      "file": "dist/about_us/index.html",
+      "sha256": "49115a4dea3efeaa0546c7df71eec0acc8924f8a3951fe8a872618a3ad5240fa"
+    },
+    {
+      "url": "https://alfred.kour.me/about_us/teachers/",
+      "file": "dist/about_us/teachers/index.html",
+      "sha256": "1d5877959c5dcbe5953d841f9a7633c37776d7c48fcac4aeb0a8d4bcb1c3c282"
+    },
+    {
+      "url": "https://alfred.kour.me/about_us/teaching/",
+      "file": "dist/about_us/teaching/index.html",
+      "sha256": "9498e42c6d43f8a9344fa74b897e079acb0385a05668493a792eb81ed11980bb"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/about/",
+      "file": "dist/arabic/about/index.html",
+      "sha256": "c60481df50307e599f31bd84c9e52e6f27bfa04bb0adc14212aaef76c60f230c"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/before-test/",
+      "file": "dist/arabic/before-test/index.html",
+      "sha256": "6a2c6520efe69cab16de02c8c4155cd1a7014c65f7c8775046c3b6d9d1991a15"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/contact/",
+      "file": "dist/arabic/contact/index.html",
+      "sha256": "59b7b6ed099e96e25170c25bf8418ebef402eca84351feb0f31da56f9b93fbf3"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/course/",
+      "file": "dist/arabic/course/index.html",
+      "sha256": "e4d790d54233f1eac06eb2006b88090cd1391c8d36bdf4460cfb3b3778687a05"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/course/motorbike/",
+      "file": "dist/arabic/course/motorbike/index.html",
+      "sha256": "ceb9b035eba74d1e9e544317a867c8cb9dc7a8175880cbeb9b08b5c6e8f34cae"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/course/truck/",
+      "file": "dist/arabic/course/truck/index.html",
+      "sha256": "53436ed9195ff11e1ec7500396544ca68d3533503187b5539fa57bafd6c6c6e8"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/driving/",
+      "file": "dist/arabic/driving/index.html",
+      "sha256": "e1a5addb77bf5c468dac46f93ba369979fcacb1d5f484ff2ffab36d625ff262c"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/forms/",
+      "file": "dist/arabic/forms/index.html",
+      "sha256": "8f4a53c4718e7e8935a4f27fda2b2588accc86921c483560d2764c1331c31327"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/green-paper/",
+      "file": "dist/arabic/green-paper/index.html",
+      "sha256": "fae30ae6ceca450e7c176ea93fed212e6d276e235d3b69eae4d278740a6b863c"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/",
+      "file": "dist/arabic/index.html",
+      "sha256": "c048b6cbe1a675b8045bd991e8c0d71d2dbe842baa002851d45c0bfff12ccb21"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/info/",
+      "file": "dist/arabic/info/index.html",
+      "sha256": "11aa592bec95d1c34b998bf5697fda695a8d72f74f5131b2fd0ddb5377be07cf"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/new-driver/",
+      "file": "dist/arabic/new-driver/index.html",
+      "sha256": "f0fa0ff75b6b06398ef513f783cee9c154fed1c3ad555a536b828cdf673cb120"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/presher/",
+      "file": "dist/arabic/presher/index.html",
+      "sha256": "03f44fff67878ba32645ecb9fb2c8ed4f4dd142b7deb46344fa8cd56f8e6d005"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/questions/",
+      "file": "dist/arabic/questions/index.html",
+      "sha256": "0426a3f13ec5ef98eff7ef04e1b447cacdc0d46a4612c589c7d2f06ebf2ea4aa"
+    },
+    {
+      "url": "https://alfred.kour.me/arabic/teachers/",
+      "file": "dist/arabic/teachers/index.html",
+      "sha256": "5855422ed02cd4dde6bcb85f01b71b71bd337baafee8bd9ad025d50af48bd07c"
+    },
+    {
+      "url": "https://alfred.kour.me/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+      "file": "dist/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+      "sha256": "cd44797c2f3cb0d67faabc001f391c4470eddd4d6bb0ec596580892d1d7ceeca"
+    },
+    {
+      "url": "https://alfred.kour.me/driving-teaching/",
+      "file": "dist/driving-teaching/index.html",
+      "sha256": "807fb4932667e85907bbd6698b1d3fc01289aefffb875f2ffebb31183766e905"
+    },
+    {
+      "url": "https://alfred.kour.me/driving.html",
+      "file": "dist/driving.html",
+      "sha256": "2018cb93632184448fa9b16ee768e0544586a425fd7be3dfe00ecfa6f46427b5"
+    },
+    {
+      "url": "https://alfred.kour.me/english/about/",
+      "file": "dist/english/about/index.html",
+      "sha256": "ea594af04b7b0d9a49c2cbde26f20cefcd1c97a24d8fb14a27729c9fff295641"
+    },
+    {
+      "url": "https://alfred.kour.me/english/before-test/",
+      "file": "dist/english/before-test/index.html",
+      "sha256": "2947a2867641ad9fbc2eb249814980c59faec126150f642e2dcd5bbf9d1c5e8d"
+    },
+    {
+      "url": "https://alfred.kour.me/english/contact/",
+      "file": "dist/english/contact/index.html",
+      "sha256": "100b29e8199d26ab64b6d5b106b6c65b10e2ddd46076c10c3d2c1062cd7ad56b"
+    },
+    {
+      "url": "https://alfred.kour.me/english/course/",
+      "file": "dist/english/course/index.html",
+      "sha256": "01bee2078ab2e7a20cec53b68b3ee7ba66c9a4634031238a3e88690c9e249bd8"
+    },
+    {
+      "url": "https://alfred.kour.me/english/course/motorbike/",
+      "file": "dist/english/course/motorbike/index.html",
+      "sha256": "5ac62f698a8840faa98d49f6c0f1b9c83dc88acf130ab8c20896c154b0aab6d8"
+    },
+    {
+      "url": "https://alfred.kour.me/english/course/truck/",
+      "file": "dist/english/course/truck/index.html",
+      "sha256": "b0a2fc05b43948e54dd6785eaefaee73d426581c35ebcd2047cb147682b558e1"
+    },
+    {
+      "url": "https://alfred.kour.me/english/driving/",
+      "file": "dist/english/driving/index.html",
+      "sha256": "fa496d74a240c0ffae1a8bc6b600872cc23b54099dab672c63cb367c383a4b88"
+    },
+    {
+      "url": "https://alfred.kour.me/english/forms/",
+      "file": "dist/english/forms/index.html",
+      "sha256": "1b96a9e46b92faa399992b3a04c867054fe2104fc0365e27ac0a5d147b0bad75"
+    },
+    {
+      "url": "https://alfred.kour.me/english/green-paper/",
+      "file": "dist/english/green-paper/index.html",
+      "sha256": "99548c748473509b7a5524cb53b86503ed037f7c132cbe050c98d9c818fde722"
+    },
+    {
+      "url": "https://alfred.kour.me/english/",
+      "file": "dist/english/index.html",
+      "sha256": "e316983d7f5095f7d8274d785101c2bdceb290ca6028d8b04345a571b814a5a4"
+    },
+    {
+      "url": "https://alfred.kour.me/english/info/",
+      "file": "dist/english/info/index.html",
+      "sha256": "2e7a449e8e2b268f592237174441c525ba3ca1e8b9926a3019123ac1ac0f9204"
+    },
+    {
+      "url": "https://alfred.kour.me/english/new-driver/",
+      "file": "dist/english/new-driver/index.html",
+      "sha256": "84ddc3408f2881350156106d9fd07a9069648ea25b9f4f8755fb1e61878deba2"
+    },
+    {
+      "url": "https://alfred.kour.me/english/presher/",
+      "file": "dist/english/presher/index.html",
+      "sha256": "216b3955c68e501fbd9e6f51058f6c4bad179437b23f33d14c316a39040a0839"
+    },
+    {
+      "url": "https://alfred.kour.me/english/questions/",
+      "file": "dist/english/questions/index.html",
+      "sha256": "9454c2e4cd932e984771b50d5387ce64dc3a5ce1edc91417b6237708f13f0a3e"
+    },
+    {
+      "url": "https://alfred.kour.me/english/teachers/",
+      "file": "dist/english/teachers/index.html",
+      "sha256": "c6f2e7996c281c4c9013b2fd2f3b7a79d63d8783028ae3546f8bf6945bda34b3"
+    },
+    {
+      "url": "https://alfred.kour.me/forms/",
+      "file": "dist/forms/index.html",
+      "sha256": "629ff6cb71eae5fe8d539a0ddcfe01b06e552f3a4fa764052fc6edbbc3b9f14e"
+    },
+    {
+      "url": "https://alfred.kour.me/french/",
+      "file": "dist/french/index.html",
+      "sha256": "1381b04b86e95386311978881016e012b0bf4e330e4e85bbd76145d09dfa1748"
+    },
+    {
+      "url": "https://alfred.kour.me/green-form.html",
+      "file": "dist/green-form.html",
+      "sha256": "2abc6a37197f3e6cefaf6588b314abbef901ac867fc9fd0332f473efb1076ad1"
+    },
+    {
+      "url": "https://alfred.kour.me/images/alfred-kour.jpg",
+      "file": "dist/images/alfred-kour.jpg",
+      "sha256": "19982d118383a1cba7665b7371497ee55e9d39668d2b25a7a2423bf0dd2e7734"
+    },
+    {
+      "url": "https://alfred.kour.me/images/nancy-kour.jpg",
+      "file": "dist/images/nancy-kour.jpg",
+      "sha256": "6842034b8d3cc613381d839874afb6efd799a51698f5ebf05d375109e9e76aa2"
+    },
+    {
+      "url": "https://alfred.kour.me/",
+      "file": "dist/index.html",
+      "sha256": "a748662610a46202638353daf82ca5e03d36403809f27c95079138c08d7e98a2"
+    },
+    {
+      "url": "https://alfred.kour.me/info/before_test/",
+      "file": "dist/info/before_test/index.html",
+      "sha256": "299f875df37655cf3ae78a1dea25d6062c42c2e4a808150e6a692cecc3622707"
+    },
+    {
+      "url": "https://alfred.kour.me/info/course/",
+      "file": "dist/info/course/index.html",
+      "sha256": "a6400f93b1e75ff9b657aa695005d987bd18421593eaebae12cc37323408e012"
+    },
+    {
+      "url": "https://alfred.kour.me/info/course/lessons/",
+      "file": "dist/info/course/lessons/index.html",
+      "sha256": "06fd908a37ddb357d6e6e71fa778eaf9897e09e3f75eeb7fe14e31bb3fda04f8"
+    },
+    {
+      "url": "https://alfred.kour.me/info/course/motorbike/",
+      "file": "dist/info/course/motorbike/index.html",
+      "sha256": "360ec21ee70ef1a3ef11a72f5b14af5b31f5dcec4008fc1c24544894883131d9"
+    },
+    {
+      "url": "https://alfred.kour.me/info/course/truck/",
+      "file": "dist/info/course/truck/index.html",
+      "sha256": "d0c77a6b6fd009b79901688eb1b397aef64d3c74f39a97c1a7c7f25dac23c502"
+    },
+    {
+      "url": "https://alfred.kour.me/info/green-paper/",
+      "file": "dist/info/green-paper/index.html",
+      "sha256": "fd3861afc75d56c799a15894085ec856e9f73ca982c7d16a48ffc26b32ae5eaa"
+    },
+    {
+      "url": "https://alfred.kour.me/info/",
+      "file": "dist/info/index.html",
+      "sha256": "6ef4fb9f3262be6f8d06271ff2afd6bac221a34a5dbabb013f8aae3c7f9e5ec9"
+    },
+    {
+      "url": "https://alfred.kour.me/info/new_law/",
+      "file": "dist/info/new_law/index.html",
+      "sha256": "0ef11f72724f1aa43acdec31c75a8b3e43bce94e93475a845ae8047119824d2c"
+    },
+    {
+      "url": "https://alfred.kour.me/info/presher/",
+      "file": "dist/info/presher/index.html",
+      "sha256": "fdf2cff7e4be4e32561bf568c463761c14adbe75cb05125d9e5646960a07c91c"
+    },
+    {
+      "url": "https://alfred.kour.me/marketing/",
+      "file": "dist/marketing/index.html",
+      "sha256": "6057a1309b970ce5fe7dc6083db362bec4b4ba5c12248ee2e36daf348cd8d097"
+    },
+    {
+      "url": "https://alfred.kour.me/quistions/",
+      "file": "dist/quistions/index.html",
+      "sha256": "05b4d77921706a707b220c511f55a27e55af6b4c2c2dab45a9ca26baff30d437"
+    },
+    {
+      "url": "https://alfred.kour.me/resources.html",
+      "file": "dist/resources.html",
+      "sha256": "069a2571dff8ea73d9b6f04ebbd142cb9638fb3bffb34c8788c4fdfc47c8b39c"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/about/",
+      "file": "dist/russian/about/index.html",
+      "sha256": "df76b5572c373c6697dda88ed41c8988b290a72bf705814544c96610de017a99"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/before-test/",
+      "file": "dist/russian/before-test/index.html",
+      "sha256": "a2c8b6f884dafc0eeb7225fad1572b1c7306948ea0a402620d4044df149b8f68"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/contact/",
+      "file": "dist/russian/contact/index.html",
+      "sha256": "758bc13c1fb8161a8ee8d98c4a81cdbeb0d91bd17c6318bdfc9ea3082ef825ac"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/course/",
+      "file": "dist/russian/course/index.html",
+      "sha256": "a4d7f84f6d2faff2116b965df8bd9f0db5b749e3124158f5801244c356ac5888"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/course/motorbike/",
+      "file": "dist/russian/course/motorbike/index.html",
+      "sha256": "eacc954ecc751e6260c22f308457b68fdb7790b33418e64017277140b61cdee4"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/course/truck/",
+      "file": "dist/russian/course/truck/index.html",
+      "sha256": "ccb28b9ca96a2654d0ec5e812ab00ad8ebf911865cfea34ac98049a45dfcaf93"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/driving/",
+      "file": "dist/russian/driving/index.html",
+      "sha256": "0c0547b8ddcebf8069096257f509789eae8b8910c99d5bee8bc2a7ad74c83cd4"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/forms/",
+      "file": "dist/russian/forms/index.html",
+      "sha256": "a4d975d4db944e817c86427f3384bb49f1f967191a8f01659e9a30b1a0a6012c"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/green-paper/",
+      "file": "dist/russian/green-paper/index.html",
+      "sha256": "9559e962038fd85c9631dec6a427e557a9fab37d87183781a1e31b8d6888c0c0"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/",
+      "file": "dist/russian/index.html",
+      "sha256": "a4db49ca8d4d73d1797b2c8b962b4f4b62ad3cd6389c1b86bfc9e3c549338361"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/info/",
+      "file": "dist/russian/info/index.html",
+      "sha256": "5d1b0ceb15b03c293fe2c9fda9f23987502064dce9096bb4d66cc5fc73560861"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/new-driver/",
+      "file": "dist/russian/new-driver/index.html",
+      "sha256": "857036ab0f9a2f5f4ae3692b4b4c1805f821242335886c7c94c88935fd36a350"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/presher/",
+      "file": "dist/russian/presher/index.html",
+      "sha256": "0bc698980702df6faceba21d8ab889d7bf64a5b9f24f14a1a69584912f4914e5"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/questions/",
+      "file": "dist/russian/questions/index.html",
+      "sha256": "d4f31b1d2c95cde0a31ff2eff300ff4c109bb42578b95d37ca8f5a0699e58954"
+    },
+    {
+      "url": "https://alfred.kour.me/russian/teachers/",
+      "file": "dist/russian/teachers/index.html",
+      "sha256": "6a372b65ec70426fcae1b09e8bbd39814ef7d39c2a7cf40b6139293e519c0cb8"
+    },
+    {
+      "url": "https://alfred.kour.me/style.css",
+      "file": "dist/style.css",
+      "sha256": "8629d5ed6c7025295de82276eb407722ac02424f235ae2d66fdfba663bfe7aa9"
+    },
+    {
+      "url": "https://alfred.kour.me/theory.html",
+      "file": "dist/theory.html",
+      "sha256": "3271184b7264db8ad03cbb4acdbad7ddbb519e30d6370d497f9b95c808e6cd7b"
+    },
+    {
+      "url": "https://alfred.kour.me/home/",
+      "file": "dist/home/index.html",
+      "sha256": "d1de6befe3e0882cf29d1c50c14288fb7d3550a180aa5ae22d6bc7fecfc2adfa"
+    },
+    {
+      "url": "https://alfred.kour.me/quistions/quistionsarab/",
+      "file": "dist/quistions/quistionsarab/index.html",
+      "sha256": "2855b2b7b216b157f72dbfa57ee41b74f91176e51c6d7bf697ad9933482b217d"
+    }
+  ],
+  "failures": []
+}
