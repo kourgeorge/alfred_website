@@ -9,12 +9,36 @@ python3 scripts/build.py
 python3 -m http.server 8000 --directory dist
 ```
 
-- `src/pages/` has one file per page. Each starts with a short block of settings
-  (title, description, language, which header and footer to use), followed by the
-  page's main content.
-- `src/partials/` has the shared headers and footers, one per language.
-- `src/layouts/` has the page shell (the `<head>` and `<body>` wrapper).
-- `src/static/` holds the stylesheet and photos, copied into `dist/` as they are.
+```
+src/
+  pages/        one file per page, grouped by language
+    he/           Hebrew (main site): home.html, about.html, theory-course.html, blog/...
+    en/ ar/ ru/   translated sections, using the same file names as each other
+    fr/           French page
+    */legacy/     older pages still online at their old addresses
+  partials/     shared headers and footers per language (he/header.html, ...)
+  layouts/      the page shell: <head> and <body> wrapper
+  public/       stylesheet and photos, copied into dist/ as they are
+scripts/
+  build.py      builds src/ into dist/
+```
+
+Each page file starts with a short settings block, then its main content:
+
+```
+---
+title: אודות אלפרד קור | אלפרד קור
+description: ...
+lang: he
+permalink: /about_us/
+---
+<main>...</main>
+```
+
+`permalink` is the page's web address. File names describe the page; web
+addresses stay as they were on the published site, so existing links keep working.
+Pages use their language's `header.html` and `footer.html` unless the settings name
+another one (for example `header: he/home-header`).
 
 The build puts each page back on a single line, so line breaks and indentation in
 `src/` are only there to make editing easier. The source in `src/` was rebuilt from
