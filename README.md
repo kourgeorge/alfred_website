@@ -55,3 +55,34 @@ prefix internal URLs with the Pages base path.
 `recovery-manifest.json` lists the downloaded URLs, file paths, and SHA-256 checksums of the original recovered files. `.openai/hosting.json` preserves the original Sites project identity and static directory.
 
 This is a recovery of the deployed files, not an export of the original source repository or Git history. Unpublished files, build scripts, and the original `course-lectures.json` were not accessible. Google Forms, Teachable courses, YouTube videos, and other external services remain linked and are not copied into this repository. The published pages contained Cloudflare code added by the host; the build leaves it out.
+
+## WordPress migration
+
+The site was imported into WordPress at `http://192.168.1.77/` using the custom
+Alfred Kour theme. All 74 source pages, including the blog and legacy addresses,
+are WordPress Pages. Find them under **Pages → All Pages**. Their HTML is available
+in the classic editor's **Text** tab; use this tab to preserve the existing layout
+when editing. Page edits in WordPress do not sync back into this repository.
+
+Theme source is in `wordpress/theme/`. Build an uploadable theme from the current
+source with:
+
+```sh
+python3 scripts/build-wordpress.py
+python3 scripts/check-wordpress.py http://192.168.1.77
+```
+
+The ZIP is `dist/wordpress/alfred-kour.zip`. Install it under **Appearance → Themes
+→ Add Theme → Upload Theme**, activate it, then run **Tools → Alfred migration**.
+The importer creates missing pages and sets the Hebrew homepage. Re-running it
+preserves existing imported page content. Updating the theme updates shared
+headers, footers, stylesheet and bundled photographs, but does not overwrite page
+edits in WordPress. Original addresses are provided by the active theme's rewrite
+rules; the server must route missing files to WordPress as usual.
+
+The original WordPress homepage settings are saved in the
+`alfred_kour_previous_home` option. To roll back, reactivate the previous theme and
+restore **Settings → Reading** (previously the latest posts). Existing WordPress
+posts and pages are retained. No public DNS or original hosting changes are made
+by the migration. External course purchases, forms and videos continue to use
+their existing services.

@@ -16,3 +16,4 @@ html[lang="en"] .article ul,html[lang="en"] .article ol{padding-left:24px;paddin
 html[lang="ru"] .article ul,html[lang="ru"] .article ol{padding-left:24px;padding-right:0}html[lang="ru"] .notice{border-right:0;border-left:4px solid #d1a02b}html[lang="ru"] .quote{border-right:0;border-left:7px solid #f3c84b}html[lang="ru"] .practice-group small{font-size:.85em;color:#63737b;font-weight:400}
 
 .post-meta{color:#7a868c;font-size:.92rem;margin:0 0 10px}.post-card .post-meta{margin-bottom:8px}
+.table-wrap{overflow-x:auto;margin:25px 0}.article table{width:100%;border-collapse:collapse;font-size:1rem;line-height:1.6;color:#43545e}.article th,.article td{border-bottom:1px solid #dfe5e5;padding:12px 14px;text-align:start;vertical-align:top}.article th{background:#eef2f2;color:#122333;font-weight:700}.article h3+p{margin-top:0}
